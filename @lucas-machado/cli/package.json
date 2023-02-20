@@ -1,0 +1,16 @@
+{
+  "name": "@lucas-machado/cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "bin": {
+    "lucas": "./bin/index.js"
+  },
+  "scripts": {},
+  "author": "Lucas Machado",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cli": "^15.1.6",
+    "yargs": "^17.7.0"
+  }
+}

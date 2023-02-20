@@ -1,0 +1,14 @@
+{
+  "name": "@lucas-machado/lib",
+  "version": "1.0.0",
+  "description": "Library for projects.",
+  "main": "index.js",
+  "scripts": {
+    "publish": "npm publish --access public"
+  },
+  "keywords": [
+    "lib"
+  ],
+  "author": "Lucas Machado",
+  "license": "ISC"
+}
