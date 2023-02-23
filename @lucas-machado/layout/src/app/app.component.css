@@ -1,0 +1,11 @@
+.document {
+    height: 100%;
+    width: 100%;
+    caret-color: transparent;
+}
+
+.header-placeholder {
+    width: 98%;
+    height: 80px;
+    margin: 15px;
+}

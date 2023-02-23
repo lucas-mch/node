@@ -1,0 +1,48 @@
+    /* Application */
+
+    .app {
+        height: 100%;
+        display: flex;
+    }
+
+    .app-nav-bar-left {
+        background: var(--primary-color);
+        width: 80px;
+    }
+
+
+    .main-action-placeholder {
+        height: 56px;
+        margin: 8px 0 16px 0;
+        border-radius: 15px;
+        margin: 5px 10px 1px 7px;
+        background-color: #c2e7ff;
+    }
+
+    .main-action-placeholder:hover {
+        box-shadow: 0 1px 3px 0 rgb(60 64 67 / 30%), 0 4px 8px 3px rgb(60 64 67 / 15%);
+        background-color: #c2e7ff;
+    }
+
+    .app-nav-bar-left:hover {
+        width: 200px;
+        transition: width 1s;
+    }
+
+
+    .app-nav-bar-right {
+        background: var(--primary-color);
+        width: 56px;
+    }
+
+    .content-holder {
+        background: var(--primary-color);
+        width: 100%;
+        display: flex;
+    }
+
+    .content {
+        background-color: rgba(255, 255, 255, 1);
+        width: 100%;
+        border-radius: 16px;
+    }
